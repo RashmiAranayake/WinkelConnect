@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WinckleConnect</string>
+    <string name="title_activity_contacts_">Contacts_Activity</string>
+    <string name="title_activity_message">Message</string>
+    <string name="title_activity_new__message">New_Message</string>
+</resources>

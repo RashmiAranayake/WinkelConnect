@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "525907227474",
+    "firebase_url": "https://collegareoriginal.firebaseio.com",
+    "project_id": "collegareoriginal",
+    "storage_bucket": "collegareoriginal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525907227474:android:c0c58445ca7c6026",
+        "android_client_info": {
+          "package_name": "com.example.rashmiaranayake.collegare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525907227474-qn1pehrsl2i0chbeos1hp2pi7ghhnfpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2VgTTtQztE-aqr1-lMMzRrN7_Mjixvkg"
+        },
+        {
+          "current_key": "AIzaSyDJnPKrRUe-_f8cJTakpyr-X3r3EpzBNeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525907227474:android:85e30ccf2217c047",
+        "android_client_info": {
+          "package_name": "com.rashmiaranayake.collegareoriginal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525907227474-qn1pehrsl2i0chbeos1hp2pi7ghhnfpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2VgTTtQztE-aqr1-lMMzRrN7_Mjixvkg"
+        },
+        {
+          "current_key": "AIzaSyDJnPKrRUe-_f8cJTakpyr-X3r3EpzBNeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525907227474:android:eb401d599ba24534",
+        "android_client_info": {
+          "package_name": "com.rashmiaranayake.winckleconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525907227474-qn1pehrsl2i0chbeos1hp2pi7ghhnfpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2VgTTtQztE-aqr1-lMMzRrN7_Mjixvkg"
+        },
+        {
+          "current_key": "AIzaSyDJnPKrRUe-_f8cJTakpyr-X3r3EpzBNeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
