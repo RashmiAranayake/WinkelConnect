@@ -23,7 +23,6 @@
         android:id="@+id/Contacts"
         android:layout_width="wrap_content"
         android:layout_height="243dp"
-        android:src="@drawable/winkle_send"
         android:layout_weight="1.08" />
 
     <Button
